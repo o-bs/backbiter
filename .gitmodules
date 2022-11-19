@@ -1,3 +1,6 @@
 [submodule "back"]
 	path = back
 	url = https://github.com/o-bs/backbiter
+[submodule "biter"]
+	path = biter
+	url = https://gitlab.com/ungtb10d/backbiter
